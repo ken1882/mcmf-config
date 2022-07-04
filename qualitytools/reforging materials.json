@@ -1,0 +1,1098 @@
+[
+  {
+    "comment": "This file contains custom reforging materials. By default, you can reforge a tool with its repair item (like iron ingots for an iron sword), but some items don't have a repair item, like bows. This adds items to reforge those. It can also add an item for 'any', which will work for any item that can't be reforged otherwise. For more info about how to add materials, visit: https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    "tool": "any",
+    "material": {
+        "item": "minecraft:nether_star"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:bow"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:fishing_rod"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:wooden_hoe"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:stone_hoe"
+    },
+    "material": {
+        "ore_dict": "cobblestone"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_hoe"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_horse_armor"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "qualitytools:emerald_ring"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+        "item": "qualitytools:emerald_amulet"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:totem_of_undying"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_pickaxe"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_axe"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_crook"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_shears"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_bow"
+    },
+    "material": {
+        "item": "enderio:item_material",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_sword"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_shield"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_helmet"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_chestplate"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_leggings"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_dark_steel_boots"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_helmet"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_chestplate"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_leggings"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_boots"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_sword"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_shield"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_pickaxe"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_axe"
+    },
+    "material": {
+        "item": "enderio:item_alloy_ingot",
+        "meta": 8
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_end_steel_bow"
+    },
+    "material": {
+        "item": "enderio:item_material",
+        "meta": 71
+    }
+  },
+  {
+    "tool": {
+      "item": "tconstruct:slime_boots"
+    },
+    "material": {
+      "ore_dict": "slimeball"
+    }
+  },
+  {
+    "tool": {
+      "item": "wct:wct"
+    },
+    "material": {
+        "item": "appliedenergistics2:material",
+        "meta": 9
+    }
+  },
+  {
+    "tool": {
+      "item": "toolbelt:belt"
+    },
+    "material": {
+      "ore_dict": "leather"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:dragons_eye"
+    },
+    "material": {
+      "ore_dict": "dragonSkull"
+    }
+  },
+  {
+    "tool": {
+      "item": "potionfingers:ring"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "extrautils2:angelring"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:glow_ring"
+    },
+    "material": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:sea_stone"
+    },
+    "material": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:polarized_stone"
+    },
+    "material": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:wither_ring"
+    },
+    "material": {
+      "item": "minecraft:skull",
+      "mera": 1
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:manaring"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:manaringgreater"
+    },
+    "material": {
+      "ore_dict": "ingotTerrasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:travelbelt"
+    },
+    "material": {
+      "ore_dict": "leather"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:knockbackbelt"
+    },
+    "material": {
+      "ore_dict": "leather"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:icependant"
+    },
+    "material": {
+      "item": "botania:manaresource",
+      "meta": 16
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:lavapendant"
+    },
+    "material": {
+      "item": "botania:manaresource",
+      "meta": 16
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:waterring"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:miningring"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:divacharm"
+    },
+    "material": {
+      "ore_dict": "blockGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:flighttiara"
+    },
+    "material": {
+      "ore_dict": "ingotElvenElementium"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:pixiering"
+    },
+    "material": {
+      "ore_dict": "ingotElvenElementium"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:supertravelbelt"
+    },
+    "material": {
+      "ore_dict": "ingotElvenElementium"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:reachring"
+    },
+    "material": {
+      "ore_dict": "ingotElvenElementium"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:itemfinder"
+    },
+    "material": {
+      "ore_dict": "pearlEnderEye"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:superlavapendant"
+    },
+    "material": {
+      "ore_dict": "rodBlaze"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:bloodpendant"
+    },
+    "material": {
+      "ore_dict": "itemGhastTear"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:monocle"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:cosmetic"
+    },
+    "material": {
+      "ore_dict": "manaString"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:swapring"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:magnetringgreater"
+    },
+    "material": {
+      "ore_dict": "ingotTerrasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:speedupbelt"
+    },
+    "material": {
+      "ore_dict": "sugar"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:dodgering"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:invisibilitycloak"
+    },
+    "material": {
+      "ore_dict": "manaPearl"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:cloudpendant"
+    },
+    "material": {
+      "ore_dict": "ingotManasteel"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:thirdeye"
+    },
+    "material": {
+      "ore_dict": "pearlEnderEye"
+    }
+  },
+  {
+    "tool": {
+      "item": "botania:goddesscharm"
+    },
+    "material": {
+      "ore_dict": "manaDiamond"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:trinketballoon"
+    },
+    "material": {
+      "ore_dict": "blockWool"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:shieldcobalt"
+    },
+    "material": {
+      "ore_dict": "ingotCobalt"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:trinketobsidianskull"
+    },
+    "material": {
+      "ore_dict": "itemskull"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:trinketmagiclenses"
+    },
+    "material": {
+      "ore_dict": "blockGlass"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:amuletsinempty"
+    },
+    "material": {
+      "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:amuletsingluttony"
+    },
+    "material": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:amuletsinpride"
+    },
+    "material": {
+      "ore_dict": "blockGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:amuletsinwrath"
+    },
+    "material": {
+      "ore_dict": "itemSkull"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:trinketbrokenheart"
+    },
+    "material": {
+      "item": "scalinghealth:crystalshard"
+    }
+  },
+  {
+    "tool": {
+      "item": "bountifulbaubles:amuletcross"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:wolf_cape_classic"
+    },
+    "material": {
+      "ore_dict": "peltWolf"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:wolf_cape_timber"
+    },
+    "material": {
+      "ore_dict": "peltWolf"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:wolf_cape_black"
+    },
+    "material": {
+      "ore_dict": "peltWolf"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:wolf_cape_brown"
+    },
+    "material": {
+      "ore_dict": "peltWolf"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:wolf_cape_red"
+    },
+    "material": {
+      "ore_dict": "peltWolf"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:bear_cape_black"
+    },
+    "material": {
+      "ore_dict": "peltBear"
+    }
+  },
+  {
+    "tool": {
+      "item": "betteranimalsplus:bear_cape_kermode"
+    },
+    "material": {
+      "ore_dict": "peltBear"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:charm_agression"
+    },
+    "material": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:focus_sash"
+    },
+    "material": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:charm_gluttony"
+    },
+    "material": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:charm_null"
+    },
+    "material": {
+      "ore_dict": "obsidian"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:charm_portal"
+    },
+    "material": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  {
+    "tool": {
+      "item": "darkutils:charm_sleep"
+    },
+    "material": {
+      "item": "minecraft:bed"
+    }
+  },
+  {
+    "tool": {
+      "item": "defiledlands:scarlite_ring"
+    },
+    "material": {
+      "item": "defiledlands:black_heart"
+    }
+  },
+  {
+    "tool": {
+      "item": "defiledlands:phytoprostasia_amulet"
+    },
+    "material": {
+      "item": "defiledlands:scuttler_eye"
+    }
+  },
+  {
+    "tool": {
+      "item": "enderio:item_magnet"
+    },
+    "material": {
+      "ore_dict": "itemVibrantCrystal"
+    }
+  },
+  {
+    "tool": {
+      "item": "extracells:terminal.universal.wireless"
+    },
+    "material": {
+      "item": "appliedenergistics2:material",
+      "meta": 41
+    }
+  },
+  {
+    "tool": {
+      "item": "extrautils2:chickenring",
+      "meta": 0
+    },
+    "material": {
+      "ore_dict": "feather"
+    }
+  },
+  {
+    "tool": {
+      "item": "extrautils2:chickenring",
+      "meta": 1
+    },
+    "material": {
+      "ore_dict": "enderpearl"
+    }
+  },
+  {
+    "tool": {
+      "item": "immersiveengineering:powerpack"
+    },
+    "material": {
+      "ore_dict": "blockCopper"
+    }
+  },
+  {
+    "tool": {
+      "item": "industrialforegoing:meat_feeder"
+    },
+    "material": {
+      "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+      "item": "qualitytools:emerald_ring"
+    },
+    "material": {
+      "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+      "item": "qualitytools:emerald_amulet"
+    },
+    "material": {
+      "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_arrow"
+    },
+    "material": {
+      "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_arrow_moderate"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_arrow_heavy"
+    },
+    "material": {
+      "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_bolt"
+    },
+    "material": {
+      "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_bolt_moderate"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "spartanweaponry:quiver_bolt_heavy"
+    },
+    "material": {
+      "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+      "item": "supersoundmuffler:sound_muffler_bauble"
+    },
+    "material": {
+      "item": "minecraft:noteblock"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:goggles"
+    },
+    "material": {
+      "ore_dict": "ingotBrass"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 0
+    },
+    "material": {
+      "ore_dict": "ingotBrass"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 1
+    },
+    "material": {
+      "ore_dict": "ingotBrass"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 2
+    },
+    "material": {
+      "ore_dict": "ingotBrass"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 3
+    },
+    "material": {
+      "ore_dict": "ingotBrass"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 4
+    },
+    "material": {
+      "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:baubles",
+      "meta": 5
+    },
+    "material": {
+      "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:amulet_vis"
+    },
+    "material": {
+      "item": "thaumcraft:vis_resonator"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:verdant_charm"
+    },
+    "material": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:curiosity_band"
+    },
+    "material": {
+      "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:voidseer_charm"
+    },
+    "material": {
+      "item": "thaumcraft:brain"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:cloud_ring"
+    },
+    "material": {
+      "ore_dict": "feather"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:charm_undying"
+    },
+    "material": {
+      "ore_dict": "blockGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "thaumcraft:focus_pouch"
+    },
+    "material": {
+      "ore_dict": "leather"
+    }
+  },
+  {
+    "tool": {
+      "item": "thermalexpansion:capacitor"
+    },
+    "material": {
+      "ore_dict": "blockRedstone"
+    }
+  },
+  {
+    "tool": {
+      "item": "thermalexpansion:reservoir"
+    },
+    "material": {
+      "ore_dict": "blockRedstone"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:poison_stone"
+    },
+    "material": {
+      "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+      "item": "xat:ender_tiara"
+    },
+    "material": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  {
+    "tool": {
+      "item": "wizardry:pearl_belt"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "wizardry:cape"
+    },
+    "material": {
+      "ore_dict": "leather"
+    }
+  },
+  {
+    "tool": {
+      "item": "wizardry:halo_fake"
+    },
+    "material": {
+      "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+      "item": "wizardry:halo_real"
+    },
+    "material": {
+      "ore_dict": "blockGold"
+    }
+  }
+]
